@@ -1,0 +1,19 @@
+{
+  "name": "authorisationtoevil",
+  "version": "1.0.0",
+  "description": "Authorization page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/julmedvedeva/aithorisationToEvil.git"
+  },
+  "author": "Julia Medvedeva",
+  "license": "ISC",
+  "homepage": "https://github.com/julmedvedeva/aithorisationToEvil#readme",
+  "dependencies": {
+    "webpack": "^5.74.0"
+  }
+}
